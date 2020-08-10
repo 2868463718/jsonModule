@@ -1,0 +1,9 @@
+
+# 设置生成的大的Java对象的根目录，即实体类生成的跟目录
+rootPath: D:/idea/idea2020/workplace/jsonToObj/src/main/java/zy/blue7/jsontoobj/enity
+
+# 设置生成的大的Java类的名字
+mainClassName: javaObj
+
+# 坐标，就是你 使用maven 创建项目的坐标（groupId+artifactId）+创建的实体类的根目录是那个包，这里是 enity
+coordinate: zy.blue7.jsontoobj.enity
